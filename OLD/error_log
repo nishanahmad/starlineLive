@@ -1,0 +1,71 @@
+[21-Mar-2018 05:13:52 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 05:13:52 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 05:13:52 Etc/GMT] PHP Warning:  include(): Failed opening 'library/flash_messages.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 05:13:59 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 05:13:59 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 05:13:59 Etc/GMT] PHP Warning:  include(): Failed opening 'library/flash_messages.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 05:15:03 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 05:15:03 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 05:15:03 Etc/GMT] PHP Warning:  include(): Failed opening 'library/flash_messages.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 05:15:41 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 05:15:41 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 05:15:41 Etc/GMT] PHP Warning:  include(): Failed opening 'library/flash_messages.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 05:18:26 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 05:18:26 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 05:18:26 Etc/GMT] PHP Warning:  include(): Failed opening 'library/flash_messages.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 05:20:33 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 05:20:33 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 05:20:33 Etc/GMT] PHP Warning:  include(): Failed opening 'library/flash_messages.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 10:44:47 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 10:44:47 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[21-Mar-2018 10:44:47 Etc/GMT] PHP Warning:  include(): Failed opening 'library/flash_messages.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/starlejw/public_html/process_return_new.php on line 7
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: clientArray in /home/starlejw/public_html/partyLedger.php on line 191
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/starlejw/public_html/partyLedger.php on line 191
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 200
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 201
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 213
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 217
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 217
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 236
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 239
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 239
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 258
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 261
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 261
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 280
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 282
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 282
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 303
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 303
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 326
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 326
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 346
+[04-Apr-2018 07:35:33 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 385
+[13-Apr-2018 09:08:36 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[13-Apr-2018 09:08:36 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[13-Apr-2018 09:08:36 Etc/GMT] PHP Warning:  include(): Failed opening 'library/flash_messages.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/starlejw/public_html/process_return_new.php on line 7
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: clientArray in /home/starlejw/public_html/partyLedger.php on line 191
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/starlejw/public_html/partyLedger.php on line 191
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 200
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 201
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 213
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 217
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 217
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 236
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 239
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 239
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 258
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 261
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 261
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 280
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 282
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 282
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 303
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 303
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 326
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 326
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 346
+[26-Apr-2018 04:29:42 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 385
+[09-May-2018 07:09:24 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[09-May-2018 07:09:24 Etc/GMT] PHP Warning:  include(library/flash_messages.php): failed to open stream: No such file or directory in /home/starlejw/public_html/process_return_new.php on line 7
+[09-May-2018 07:09:24 Etc/GMT] PHP Warning:  include(): Failed opening 'library/flash_messages.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/starlejw/public_html/process_return_new.php on line 7

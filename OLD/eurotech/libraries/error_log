@@ -1,0 +1,12 @@
+[01-Aug-2018 08:35:05 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'The document URL you specified was not found. [Status: 404]' in /home/starlejw/public_html/eurotech/libraries/pdf.class.php:123
+Stack trace:
+#0 /home/starlejw/public_html/eurotech/libraries/pdfDownload.php(16): html2pdf->convertHTML()
+#1 /home/starlejw/public_html/eurotech/libraries/pdfDownload.php(5): generatePdf('http://starline...', 'ord-69.pdf')
+#2 {main}
+  thrown in /home/starlejw/public_html/eurotech/libraries/pdf.class.php on line 123
+[02-Aug-2018 07:13:39 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'The document URL you specified was not found. [Status: 404]' in /home/starlejw/public_html/eurotech/libraries/pdf.class.php:123
+Stack trace:
+#0 /home/starlejw/public_html/eurotech/libraries/pdfDownload.php(16): html2pdf->convertHTML()
+#1 /home/starlejw/public_html/eurotech/libraries/pdfDownload.php(5): generatePdf('http://starline...', 'ord-70.pdf')
+#2 {main}
+  thrown in /home/starlejw/public_html/eurotech/libraries/pdf.class.php on line 123

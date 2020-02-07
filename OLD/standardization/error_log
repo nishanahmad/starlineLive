@@ -1,0 +1,5 @@
+[07-Jun-2017 06:29:59 Etc/GMT] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/starlejw/public_html/standardization/new.php on line 5
+[07-Jun-2017 06:29:59 Etc/GMT] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/starlejw/public_html/standardization/new.php on line 5
+[07-Jun-2017 06:29:59 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'connect.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/starlejw/public_html/standardization/new.php on line 5
+[07-Jun-2017 06:42:41 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/starlejw/public_html/standardization/process_new.php on line 31
+[07-Jun-2017 06:45:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/starlejw/public_html/standardization/process_new.php on line 30

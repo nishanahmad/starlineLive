@@ -1,0 +1,723 @@
+[23-Aug-2018 04:11:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nishan'@'localhost' (using password: YES) in /home/starlejw/public_html/connect.php on line 2
+[23-Aug-2018 04:11:21 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/starlejw/public_html/connect.php on line 4
+[23-Aug-2018 04:11:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/starlejw/public_html/user_login_session.php on line 10
+[23-Aug-2018 04:11:21 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/starlejw/public_html/user_login_session.php on line 18
+[23-Aug-2018 04:11:40 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nishan'@'localhost' (using password: YES) in /home/starlejw/public_html/connect.php on line 2
+[23-Aug-2018 04:11:40 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/starlejw/public_html/connect.php on line 4
+[23-Aug-2018 04:11:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/starlejw/public_html/user_login_session.php on line 10
+[23-Aug-2018 04:11:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/starlejw/public_html/user_login_session.php on line 18
+[23-Aug-2018 04:12:27 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nishan'@'localhost' (using password: YES) in /home/starlejw/public_html/connect.php on line 2
+[23-Aug-2018 04:12:27 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/starlejw/public_html/connect.php on line 4
+[23-Aug-2018 04:12:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/starlejw/public_html/user_login_session.php on line 10
+[23-Aug-2018 04:12:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/starlejw/public_html/user_login_session.php on line 18
+[23-Aug-2018 04:15:11 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nishan'@'localhost' (using password: YES) in /home/starlejw/public_html/connect.php on line 2
+[23-Aug-2018 04:15:11 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/starlejw/public_html/connect.php on line 4
+[23-Aug-2018 04:15:11 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/starlejw/public_html/user_login_session.php on line 10
+[23-Aug-2018 04:15:11 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/starlejw/public_html/user_login_session.php on line 18
+[23-Aug-2018 04:15:35 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nishan'@'localhost' (using password: YES) in /home/starlejw/public_html/connect.php on line 2
+[23-Aug-2018 04:15:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/starlejw/public_html/connect.php on line 4
+[23-Aug-2018 04:15:35 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/starlejw/public_html/user_login_session.php on line 10
+[23-Aug-2018 04:15:35 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/starlejw/public_html/user_login_session.php on line 18
+[23-Aug-2018 04:16:36 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nishan'@'localhost' (using password: YES) in /home/starlejw/public_html/connect.php on line 2
+[23-Aug-2018 04:16:36 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/starlejw/public_html/connect.php on line 4
+[23-Aug-2018 04:16:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/starlejw/public_html/user_login_session.php on line 10
+[23-Aug-2018 04:16:36 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/starlejw/public_html/user_login_session.php on line 18
+[23-Aug-2018 04:16:44 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nishan'@'localhost' (using password: YES) in /home/starlejw/public_html/connect.php on line 2
+[23-Aug-2018 04:16:44 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/starlejw/public_html/connect.php on line 4
+[23-Aug-2018 04:16:44 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/starlejw/public_html/user_login_session.php on line 10
+[23-Aug-2018 04:16:44 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/starlejw/public_html/user_login_session.php on line 18
+[23-Aug-2018 04:18:27 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'starlejw'@'localhost' to database 'stock_management' in /home/starlejw/public_html/connect.php on line 2
+[23-Aug-2018 04:18:27 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/starlejw/public_html/connect.php on line 4
+[23-Aug-2018 04:18:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/starlejw/public_html/user_login_session.php on line 10
+[23-Aug-2018 04:18:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/starlejw/public_html/user_login_session.php on line 18
+[23-Aug-2018 04:18:37 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'starlejw'@'localhost' to database 'stock_management' in /home/starlejw/public_html/connect.php on line 2
+[23-Aug-2018 04:18:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/starlejw/public_html/connect.php on line 4
+[23-Aug-2018 04:18:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/starlejw/public_html/user_login_session.php on line 10
+[23-Aug-2018 04:18:37 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/starlejw/public_html/user_login_session.php on line 18
+[29-Oct-2018 05:23:33 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[14-Nov-2018 19:12:27 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[18-Nov-2018 18:06:17 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Nov-2018 18:06:18 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Nov-2018 18:06:19 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Nov-2018 18:06:19 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[04-Dec-2018 22:11:57 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[04-Dec-2018 22:12:40 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[04-Dec-2018 22:23:22 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[04-Dec-2018 22:23:47 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[04-Dec-2018 22:36:43 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[04-Dec-2018 22:37:17 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[04-Dec-2018 23:04:35 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[04-Dec-2018 23:05:38 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[14-Dec-2018 04:28:17 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[25-Dec-2018 09:01:39 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[31-Dec-2018 08:49:08 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/starlejw/public_html/user_login_session.php on line 18
+[12-Jan-2019 00:46:22 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[12-Jan-2019 17:32:17 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[24-Jan-2019 11:58:19 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[24-Jan-2019 11:59:02 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[24-Jan-2019 12:21:28 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[24-Jan-2019 12:21:59 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[24-Jan-2019 12:50:49 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[24-Jan-2019 12:51:28 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[24-Jan-2019 13:14:20 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[24-Jan-2019 13:15:01 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[24-Jan-2019 16:24:48 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[24-Jan-2019 16:24:48 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Feb-2019 05:14:04 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[24-Feb-2019 21:50:31 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[24-Feb-2019 23:42:01 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[24-Feb-2019 23:54:43 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[24-Feb-2019 23:55:32 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[25-Feb-2019 21:54:55 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[07-Mar-2019 08:30:09 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:09 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:09 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:09 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:10 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:10 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:10 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:10 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:10 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:10 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:11 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:11 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:11 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:11 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:11 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:11 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:11 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:13 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:13 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:13 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:13 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:13 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:13 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 08:30:14 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 14:10:54 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 14:10:59 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 14:11:01 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 14:11:04 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[07-Mar-2019 14:11:09 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:28 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:28 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:29 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:29 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:29 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:29 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:30 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:30 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:31 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:32 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:32 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:33 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:33 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:33 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:34 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:34 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:34 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:35 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:35 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:36 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:36 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:37 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:37 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:37 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:38 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:38 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:38 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:40 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:41 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:42 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Mar-2019 14:51:43 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:20 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:22 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:22 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:26 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:28 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:29 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:31 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:32 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:33 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:33 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:33 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:34 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:34 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:35 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:35 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:35 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:36 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:37 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:37 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:38 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:39 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:40 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:41 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:42 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:43 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:43 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:45 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:45 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:46 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:46 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Mar-2019 10:41:47 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Mar-2019 00:15:04 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[23-Mar-2019 05:02:30 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[23-Mar-2019 05:03:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[23-Mar-2019 05:14:04 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[23-Mar-2019 05:14:43 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[23-Mar-2019 05:24:15 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[23-Mar-2019 05:24:47 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[23-Mar-2019 07:40:01 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[23-Mar-2019 07:40:37 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[23-Mar-2019 07:50:25 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[23-Mar-2019 07:50:54 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:26:55 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:26:59 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:26:59 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:03 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:06 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:08 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:14 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:18 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:20 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:24 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:25 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:30 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:30 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:35 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:35 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:40 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:40 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:45 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:46 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:51 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:52 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:56 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:27:57 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:01 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:02 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:06 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:07 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:17 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:17 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:22 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:23 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:28 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:28 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:32 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:33 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:37 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:38 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:42 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:43 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:47 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:48 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:52 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:53 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:57 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:28:58 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:29:03 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:29:04 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:29:08 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:29:09 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:29:13 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:29:14 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:29:18 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:29:19 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:29:23 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:29:24 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:29:29 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:29:29 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:29:33 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 04:29:34 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Mar-2019 09:47:35 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[31-Mar-2019 02:03:00 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[02-May-2019 13:15:14 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Jun-2019 06:42:34 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/starlejw/public_html/connect.php on line 2
+[17-Jun-2019 06:42:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/starlejw/public_html/connect.php on line 4
+[17-Jun-2019 06:42:34 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/starlejw/public_html/user_login_session.php on line 10
+[17-Jun-2019 06:42:34 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/starlejw/public_html/user_login_session.php on line 18
+[19-Jun-2019 07:40:55 Etc/GMT] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/starlejw/public_html/connect.php on line 2
+[19-Jun-2019 07:40:55 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/starlejw/public_html/connect.php on line 4
+[19-Jun-2019 07:40:55 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/starlejw/public_html/user_login_session.php on line 10
+[19-Jun-2019 07:40:55 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/starlejw/public_html/user_login_session.php on line 18
+[22-Jun-2019 04:41:34 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/starlejw/public_html/user_login_session.php on line 18
+[22-Jun-2019 09:43:33 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[27-Jun-2019 06:22:48 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/starlejw/public_html/connect.php on line 2
+[27-Jun-2019 06:23:02 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/starlejw/public_html/connect.php on line 2
+[27-Jun-2019 06:23:40 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/starlejw/public_html/connect.php on line 2
+[27-Jun-2019 06:24:50 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/starlejw/public_html/connect.php on line 2
+[27-Jun-2019 06:25:46 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/starlejw/public_html/connect.php on line 2
+[27-Jun-2019 06:26:09 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/starlejw/public_html/connect.php on line 2
+[29-Jun-2019 03:53:53 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/starlejw/public_html/connect.php on line 2
+[29-Jun-2019 03:53:53 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/starlejw/public_html/connect.php on line 4
+[29-Jun-2019 03:53:53 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/starlejw/public_html/user_login_session.php on line 10
+[29-Jun-2019 03:53:53 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/starlejw/public_html/user_login_session.php on line 18
+[29-Jun-2019 03:54:01 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/starlejw/public_html/connect.php on line 2
+[29-Jun-2019 03:54:01 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/starlejw/public_html/connect.php on line 4
+[29-Jun-2019 03:54:01 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/starlejw/public_html/user_login_session.php on line 10
+[29-Jun-2019 03:54:01 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/starlejw/public_html/user_login_session.php on line 18
+[10-Jul-2019 17:58:02 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:02 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:03 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:03 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:04 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:04 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:04 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:05 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:06 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:07 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:07 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:07 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:08 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:09 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:09 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:09 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:09 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:10 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:10 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:11 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:11 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:11 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:11 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:13 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:13 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:13 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:14 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:14 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:14 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[10-Jul-2019 17:58:15 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Jul-2019 08:22:34 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[31-Jul-2019 02:56:55 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[31-Jul-2019 02:56:56 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[05-Aug-2019 09:30:09 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[05-Aug-2019 09:31:13 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[05-Aug-2019 09:33:26 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[05-Aug-2019 14:15:16 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[09-Aug-2019 02:38:50 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:51 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:51 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:52 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:52 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:52 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:53 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:54 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:55 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:55 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:55 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:56 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:56 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:57 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:57 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:58 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:58 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:58 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:59 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:38:59 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:39:00 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:39:00 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:39:00 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:39:01 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:39:01 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:39:01 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:39:02 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:39:02 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:39:03 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:39:03 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Aug-2019 02:39:04 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:28 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:28 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:30 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:30 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:30 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:31 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:31 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:32 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:32 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:33 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:33 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:34 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:34 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:34 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:35 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:35 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:36 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:36 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:37 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:37 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:37 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:38 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:38 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:39 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:39 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:40 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:40 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:41 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:41 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:41 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[11-Aug-2019 06:25:42 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:18 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:18 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:19 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:19 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:20 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:20 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:20 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:21 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:21 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:22 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:22 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:23 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:23 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:23 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:24 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:24 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:25 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:25 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:26 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:26 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:27 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:27 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:28 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:28 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:29 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:29 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:30 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:30 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:31 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:31 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[13-Aug-2019 15:41:32 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[28-Aug-2019 16:15:20 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: clientArray in /home/starlejw/public_html/partyLedger.php on line 191
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/starlejw/public_html/partyLedger.php on line 191
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 200
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 201
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 213
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 217
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 217
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 236
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 239
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 239
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 258
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 261
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 261
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 280
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 282
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 282
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 303
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 303
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 326
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 326
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 346
+[31-Aug-2019 06:26:31 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 385
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: clientArray in /home/starlejw/public_html/partyLedger.php on line 191
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/starlejw/public_html/partyLedger.php on line 191
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 200
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 201
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 213
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 217
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 217
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 236
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 239
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 239
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 258
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 261
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 261
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 280
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 282
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 282
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 303
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 303
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 326
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 326
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 346
+[31-Aug-2019 06:26:35 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 385
+[31-Aug-2019 06:26:38 Etc/GMT] PHP Notice:  Undefined variable: clientArray in /home/starlejw/public_html/partyLedger.php on line 191
+[31-Aug-2019 06:26:38 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/starlejw/public_html/partyLedger.php on line 191
+[31-Aug-2019 06:26:38 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 200
+[31-Aug-2019 06:26:38 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 201
+[31-Aug-2019 06:26:38 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 213
+[31-Aug-2019 06:26:38 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 217
+[31-Aug-2019 06:26:38 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 217
+[31-Aug-2019 06:26:38 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 236
+[31-Aug-2019 06:26:38 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 239
+[31-Aug-2019 06:26:38 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 239
+[31-Aug-2019 06:26:39 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 258
+[31-Aug-2019 06:26:39 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 261
+[31-Aug-2019 06:26:39 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 261
+[31-Aug-2019 06:26:39 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 280
+[31-Aug-2019 06:26:39 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 282
+[31-Aug-2019 06:26:39 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 282
+[31-Aug-2019 06:26:39 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 303
+[31-Aug-2019 06:26:39 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 303
+[31-Aug-2019 06:26:39 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 326
+[31-Aug-2019 06:26:39 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 326
+[31-Aug-2019 06:26:39 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 346
+[31-Aug-2019 06:26:39 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 385
+[09-Sep-2019 17:59:18 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[09-Sep-2019 17:59:36 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[09-Sep-2019 17:59:37 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[09-Sep-2019 17:59:37 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[09-Sep-2019 17:59:50 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[09-Sep-2019 17:59:58 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[18-Sep-2019 14:59:31 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_dv5h4b6lovt8p6r2j3at3jq386, O_RDWR) failed: No space left on device (28) in /home/starlejw/public_html/index.php on line 4
+[18-Sep-2019 14:59:31 Etc/GMT] PHP Warning:  Unknown: open(/tmp/sess_dv5h4b6lovt8p6r2j3at3jq386, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[18-Sep-2019 14:59:31 Etc/GMT] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[18-Sep-2019 20:24:59 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_gmplkvtfs95mjcifd40bcddsn7, O_RDWR) failed: No space left on device (28) in /home/starlejw/public_html/index.php on line 4
+[18-Sep-2019 20:24:59 Etc/GMT] PHP Warning:  Unknown: open(/tmp/sess_gmplkvtfs95mjcifd40bcddsn7, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[18-Sep-2019 20:24:59 Etc/GMT] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[18-Sep-2019 20:26:58 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_fss2lntqskai9cg8qthbsbhc90, O_RDWR) failed: No space left on device (28) in /home/starlejw/public_html/index.php on line 4
+[18-Sep-2019 20:26:58 Etc/GMT] PHP Warning:  Unknown: open(/tmp/sess_fss2lntqskai9cg8qthbsbhc90, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[18-Sep-2019 20:26:58 Etc/GMT] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[18-Sep-2019 20:27:05 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_4j4r7nih8coeiqb2kq4kk5sk37, O_RDWR) failed: No space left on device (28) in /home/starlejw/public_html/index.php on line 4
+[18-Sep-2019 20:27:05 Etc/GMT] PHP Warning:  Unknown: open(/tmp/sess_4j4r7nih8coeiqb2kq4kk5sk37, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[18-Sep-2019 20:27:05 Etc/GMT] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[18-Sep-2019 20:31:14 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_8s6pd83e8rq77b95ttloi8igb6, O_RDWR) failed: No space left on device (28) in /home/starlejw/public_html/index.php on line 4
+[18-Sep-2019 20:31:14 Etc/GMT] PHP Warning:  Unknown: open(/tmp/sess_8s6pd83e8rq77b95ttloi8igb6, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[18-Sep-2019 20:31:14 Etc/GMT] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[18-Sep-2019 20:31:16 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_anpla66gi1rmpdeligau3nu763, O_RDWR) failed: No space left on device (28) in /home/starlejw/public_html/index.php on line 4
+[18-Sep-2019 20:31:16 Etc/GMT] PHP Warning:  Unknown: open(/tmp/sess_anpla66gi1rmpdeligau3nu763, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[18-Sep-2019 20:31:16 Etc/GMT] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[18-Sep-2019 20:31:18 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_oij5up7djto9579q34soafaqb7, O_RDWR) failed: No space left on device (28) in /home/starlejw/public_html/index.php on line 4
+[18-Sep-2019 20:31:18 Etc/GMT] PHP Warning:  Unknown: open(/tmp/sess_oij5up7djto9579q34soafaqb7, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[18-Sep-2019 20:31:18 Etc/GMT] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[18-Sep-2019 20:31:24 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_hfoch4mlcrpcquc2i6ripcslq0, O_RDWR) failed: No space left on device (28) in /home/starlejw/public_html/index.php on line 4
+[18-Sep-2019 20:31:24 Etc/GMT] PHP Warning:  Unknown: open(/tmp/sess_hfoch4mlcrpcquc2i6ripcslq0, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[18-Sep-2019 20:31:24 Etc/GMT] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[18-Sep-2019 20:33:27 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[20-Sep-2019 17:11:00 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_kat88kcmd7v54q73epq3mdljd7, O_RDWR) failed: No space left on device (28) in /home/starlejw/public_html/index.php on line 4
+[20-Sep-2019 17:11:00 Etc/GMT] PHP Warning:  Unknown: open(/tmp/sess_kat88kcmd7v54q73epq3mdljd7, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[20-Sep-2019 17:11:00 Etc/GMT] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[20-Sep-2019 17:11:30 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_3pcnrphd88tspkrfibt72i9lg6, O_RDWR) failed: No space left on device (28) in /home/starlejw/public_html/index.php on line 4
+[20-Sep-2019 17:11:30 Etc/GMT] PHP Warning:  Unknown: open(/tmp/sess_3pcnrphd88tspkrfibt72i9lg6, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[20-Sep-2019 17:11:30 Etc/GMT] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: clientArray in /home/starlejw/public_html/partyLedger.php on line 191
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/starlejw/public_html/partyLedger.php on line 191
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 200
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 201
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 213
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 217
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 217
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 236
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 239
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 239
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 258
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 261
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 261
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 280
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: toDate in /home/starlejw/public_html/partyLedger.php on line 282
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 282
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 303
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 303
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 326
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 326
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: fromDate in /home/starlejw/public_html/partyLedger.php on line 346
+[26-Sep-2019 05:45:49 Etc/GMT] PHP Notice:  Undefined variable: client in /home/starlejw/public_html/partyLedger.php on line 385
+[11-Oct-2019 02:21:08 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[11-Oct-2019 02:27:49 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[18-Oct-2019 11:32:41 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:32:43 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:32:48 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:32:55 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:33:07 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:33:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:33:13 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:33:14 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:33:18 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:33:19 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:33:22 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:33:29 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:33:31 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:33:35 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:33:41 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:33:42 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:33:44 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:33:49 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:33:50 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:33:57 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:33:58 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:03 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:08 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:25 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:25 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:27 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:29 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:34 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:35 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:36 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:38 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:39 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:41 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:46 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:47 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:49 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:50 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:51 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:34:56 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:00 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:01 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:02 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:05 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:08 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:15 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:21 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:22 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:22 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:24 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:25 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:26 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:27 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:28 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:29 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:34 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:38 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:41 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:42 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:43 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:44 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:45 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:45 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:46 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:47 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:49 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:50 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:51 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:52 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:54 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:55 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[18-Oct-2019 11:35:56 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[24-Oct-2019 20:48:53 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[05-Nov-2019 15:18:39 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[05-Nov-2019 17:20:58 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[05-Nov-2019 18:33:10 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[16-Nov-2019 11:10:16 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/starlejw/public_html/user_login_session.php on line 18
+[17-Nov-2019 19:38:44 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:38:46 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:38:50 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:38:53 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:38:57 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:00 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:03 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:07 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:11 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:14 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:18 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:21 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:25 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:28 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:32 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:37 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:41 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:44 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:48 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:51 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:54 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:57 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:39:59 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:40:01 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:40:02 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:40:03 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:40:04 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:40:05 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:40:06 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:40:06 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[17-Nov-2019 19:40:07 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:54:37 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:54:39 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:54:41 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:54:43 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:54:46 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:54:48 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:54:51 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:54:54 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:54:57 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:54:59 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:01 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:04 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:06 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:08 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:14 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:17 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:21 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:24 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:26 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:29 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:31 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:33 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:35 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:37 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:39 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:41 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:43 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:46 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:49 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[20-Nov-2019 04:55:51 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[22-Nov-2019 18:02:48 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[22-Nov-2019 18:03:34 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[22-Nov-2019 18:03:36 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[28-Nov-2019 17:32:47 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[28-Nov-2019 17:32:47 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[09-Dec-2019 05:56:28 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Dec-2019 05:56:29 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Dec-2019 05:56:29 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Dec-2019 05:56:29 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[09-Dec-2019 17:42:13 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[09-Dec-2019 21:29:36 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[10-Dec-2019 10:36:18 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[10-Dec-2019 18:23:23 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[11-Dec-2019 05:04:22 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[13-Dec-2019 03:38:58 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[13-Dec-2019 16:00:09 Etc/GMT] PHP Notice:  Undefined variable: test in /home/starlejw/public_html/test.php on line 3
+[29-Dec-2019 11:23:03 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:03 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:04 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:04 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:04 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:05 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:05 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:05 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:06 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:06 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:06 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:07 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:07 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:07 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:08 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:08 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:08 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:08 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:09 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:09 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:09 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:10 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:10 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:10 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:11 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:11 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:11 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[29-Dec-2019 11:23:12 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[06-Jan-2020 05:31:49 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[06-Jan-2020 05:31:50 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[06-Jan-2020 05:31:51 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[06-Jan-2020 05:31:52 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[06-Jan-2020 05:31:59 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[06-Jan-2020 05:32:00 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[06-Jan-2020 05:32:06 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[06-Jan-2020 05:32:07 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[06-Jan-2020 05:32:08 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4
+[06-Jan-2020 05:32:09 Etc/GMT] PHP Notice:  Undefined index: user_name in /home/starlejw/public_html/admin.php on line 4

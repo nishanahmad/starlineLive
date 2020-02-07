@@ -1,0 +1,1 @@
+[07-Oct-2018 07:05:26 Etc/GMT] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/starlejw/public_html/api/test.php on line 10

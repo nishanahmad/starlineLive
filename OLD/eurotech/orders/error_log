@@ -1,0 +1,7 @@
+[28-Feb-2018 11:24:45 Etc/GMT] PHP Notice:  Undefined index: id in /home/starlejw/public_html/eurotech/orders/update.php on line 7
+[28-Feb-2018 11:24:45 Etc/GMT] PHP Notice:  Undefined index: date in /home/starlejw/public_html/eurotech/orders/update.php on line 8
+[28-Feb-2018 11:24:45 Etc/GMT] PHP Notice:  Undefined index: customerName in /home/starlejw/public_html/eurotech/orders/update.php on line 10
+[28-Feb-2018 11:24:45 Etc/GMT] PHP Notice:  Undefined index: customerPhone in /home/starlejw/public_html/eurotech/orders/update.php on line 11
+[28-Feb-2018 11:24:45 Etc/GMT] PHP Notice:  Undefined index: masonName in /home/starlejw/public_html/eurotech/orders/update.php on line 12
+[28-Feb-2018 11:24:45 Etc/GMT] PHP Notice:  Undefined index: masonPhone in /home/starlejw/public_html/eurotech/orders/update.php on line 13
+[28-Feb-2018 11:24:45 Etc/GMT] PHP Notice:  Undefined index: discount in /home/starlejw/public_html/eurotech/orders/update.php on line 14
