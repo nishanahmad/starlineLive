@@ -1,7 +1,7 @@
 <?php
 function temp_update_closing_stock($post_date,$item,$godown,$qty)
 {
-	require 'connect.php';
+	require '../connect.php';
 	
 	$post_date = date('Y-m-d', strtotime($post_date));
 	

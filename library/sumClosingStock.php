@@ -1,7 +1,7 @@
 <?php
 function sumClosingStock($date)
 {
-	require 'connect.php';
+	require '../connect.php';
 	$date = date("Y-m-d", strtotime($date));
 	
 	$itemsArray = array();

@@ -1,7 +1,7 @@
 <?php
 function update_closing_stock($date,$item,$godown,$qty)
 {
-	require 'connect.php';
+	require '../connect.php';
 	
 	if(empty($date) || empty($item) || empty($godown) || empty($qty) )
 	{
