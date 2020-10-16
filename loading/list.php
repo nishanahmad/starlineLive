@@ -114,6 +114,8 @@
 				
    dataTable.on( 'xhr', function () {
     var json = dataTable.ajax.json();
+	$('.sql').html(json.sql);
+	$('.journalSql').html(json.journalSql);
 	$('.to_deliver').html(json.to_deliver);
 	$('.to_receive').html(json.to_receive);
 	$('.billed').html(json.billed);
@@ -165,6 +167,9 @@ Billed : -<span class='billed'></span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&n
 <br><br>
 <b>TOTAL : <span class='total'></span></b>
 <br>
+<!--b>SQL : <span class='sql'></span></b>
+<br/>
+<b>JournalSQL : <span class='journalSql'></span></b-->
 </font>
 <font size="4">
 <span class='itemarray'/>
