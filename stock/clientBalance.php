@@ -86,12 +86,40 @@ while($row = mysqli_fetch_array($to_get,MYSQLI_ASSOC))
 	$total = $total + $row['SUM(qty)'];	
 }
 
+$journalSlip = mysqli_query($con,"SELECT SUM(qty),client FROM journals 
+							 WHERE  
+							 type = 'slip'
+							 GROUP BY client ") or die(mysqli_error($con));
+while($row = mysqli_fetch_array($journalSlip,MYSQLI_ASSOC))
+{
+	if(isset($clientQtyMap[$row['client']]))
+		$clientQtyMap[$row['client']] = $clientQtyMap[$row['client']] + $row['SUM(qty)'];
+	else
+		$clientQtyMap[$row['client']] = $row['SUM(qty)'];	
+	
+	$total = $total + $row['SUM(qty)'];	
+}
+
 $to_give = mysqli_query($con,"SELECT SUM(qty),client FROM stock_details 
 							  WHERE
 							  godown_slip_number IS NULL 
 							  AND invoice_number IS NOT NULL 
 							  GROUP BY client ") or die(mysqli_error($con));
 while($row = mysqli_fetch_array($to_give,MYSQLI_ASSOC))
+{
+	if(isset($clientQtyMap[$row['client']]))
+		$clientQtyMap[$row['client']] = $clientQtyMap[$row['client']] - $row['SUM(qty)'];
+	else
+		$clientQtyMap[$row['client']] = -$row['SUM(qty)'];	
+	
+	$total = $total - $row['SUM(qty)'];	
+}
+
+$journalInvoice = mysqli_query($con,"SELECT SUM(qty),client FROM journals 
+							 WHERE  
+							 type = 'invoice'
+							 GROUP BY client ") or die(mysqli_error($con));
+while($row = mysqli_fetch_array($journalInvoice,MYSQLI_ASSOC))
 {
 	if(isset($clientQtyMap[$row['client']]))
 		$clientQtyMap[$row['client']] = $clientQtyMap[$row['client']] - $row['SUM(qty)'];
