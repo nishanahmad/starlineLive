@@ -17,8 +17,8 @@ if(isset($_SESSION["user_name"]))
 		$toGodown = $_POST['toGodown'];
 		$remarks = $_POST['remarks'];
 		
-		update_closing_stock($entryDate,$item,$fromGodown,$qty);
-		update_closing_stock($entryDate,$item,$toGodown,-$qty);		
+		update_closing_stock($entryDate,$item,$fromGodown,$qty,$con);
+		update_closing_stock($entryDate,$item,$toGodown,-$qty,$con);		
 		
 		$sql="INSERT INTO transfer_log (date, item, qty, transferred_from, transferred_to, remarks)
 			 VALUES

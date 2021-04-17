@@ -1,8 +1,6 @@
 <?php
-function update_closing_stock($date,$item,$godown,$qty)
-{
-	require '../connect.php';
-	
+function update_closing_stock($date,$item,$godown,$qty,$con)
+{	
 	if(empty($date) || empty($item) || empty($godown) || empty($qty) )
 	{
 		die("Error...... Cannot update closing stock. Please contact administrator");
@@ -31,5 +29,4 @@ function update_closing_stock($date,$item,$godown,$qty)
 		$insertLog = mysqli_query($con,"INSERT INTO stock_log(dateTime,item,godown,qty) VALUES('$timestamp','$item','$godown','$qty') ") or die(mysqli_error($con.' at line 31'));
 	}
 }
-//update_closing_stock('2018-08-05','43 HDPE','Kattampally',50);
 ?>
