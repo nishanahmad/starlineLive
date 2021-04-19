@@ -17,7 +17,7 @@ if(isset($_SESSION["user_name"]))
 	$godown = $_POST['godown'];
 	
 
-	update_closing_stock($entryDate,$item,$godown,$qty);
+	update_closing_stock($entryDate,$item,$godown,$qty,$con);
 						
 	$sql="INSERT INTO standardization (entry_date, item, qty, godown)
 		 VALUES

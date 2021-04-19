@@ -25,7 +25,7 @@ if(isset($_SESSION["user_name"]))
 		$godown = trim($row['godown']);
 		$qty = trim($row['qty']);
 
-		update_closing_stock($date,$item,$godown,$qty);
+		update_closing_stock($date,$item,$godown,$qty,$con);
 			
 		$delete = mysqli_query($con,"DELETE FROM godown_entry WHERE id='$id' ") 
 							or die(mysqli_error($con));	

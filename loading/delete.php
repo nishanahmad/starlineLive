@@ -28,7 +28,7 @@ if(isset($_SESSION["user_name"]))
 
 		if (!empty($godown_slip_number))
 		{
-			update_closing_stock($date,$item,$godown,-$qty);
+			update_closing_stock($date,$item,$godown,-$qty,$con);
 		}
 			
 		$delete = mysqli_query($con,"DELETE FROM stock_details WHERE id='$id' ") 

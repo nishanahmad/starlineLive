@@ -25,7 +25,7 @@ if(isset($_SESSION["user_name"]))
 
 	$result = mysqli_query($con, $insert) or die(mysqli_error($con));		 
 	
-	update_closing_stock($entryDate,$item,$godown,-$qty);
+	update_closing_stock($entryDate,$item,$godown,-$qty,$con);
 	
 	header("Location:new.php");
 }

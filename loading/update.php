@@ -61,7 +61,7 @@
 									
 			if ($oldGodown == null && $oldSlip == null && $godown_slip_number != null && $godown != null)
 			{
-				update_closing_stock($entryDate,$item,$godown,$qty);
+				update_closing_stock($entryDate,$item,$godown,$qty,$con);
 			}									
 									
 			header("Location:view.php?id=$id");						

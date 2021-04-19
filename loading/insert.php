@@ -58,7 +58,7 @@ if(isset($_SESSION["user_name"]))
 		
 		if ($godown_slip_number != null && $godown != null)
 		{
-			update_closing_stock($entryDate,$item,$godown,$qty);
+			update_closing_stock($entryDate,$item,$godown,$qty,$con);
 		}
 		
 		header("Location:new.php");

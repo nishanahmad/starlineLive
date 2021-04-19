@@ -36,7 +36,7 @@ if(isset($_SESSION["user_name"]))
 
 		if (!empty($godown_slip_number))
 		{
-			update_closing_stock($entryDate,$item,$godown,-$qty);
+			update_closing_stock($entryDate,$item,$godown,-$qty,$con);
 		}
 							
 		$sql="INSERT INTO stock_details (entry_date, client, item, qty, delivery_number, invoice_number, godown_slip_number,godown)
